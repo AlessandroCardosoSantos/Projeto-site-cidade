@@ -1,0 +1,11 @@
+main{
+display: block;
+align-items: center;
+justify-content: space-between;
+
+}
+main figure img {
+    width: 400px;
+    height: 250px;
+    border-bottom: 200px;
+}
