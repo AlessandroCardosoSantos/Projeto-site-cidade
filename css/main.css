@@ -9,3 +9,15 @@ main figure img {
     height: 250px;
     border-bottom: 200px;
 }
+
+main p {
+    color: rgb(0, 0, 0); 
+    position: absolute;
+  top:08cm;
+  right: 5cm;
+  font-size: 120%;
+
+    
+   
+    
+}
